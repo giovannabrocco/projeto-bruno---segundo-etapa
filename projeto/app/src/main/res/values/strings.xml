@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">ListaCompras</string>
+
+ 
+    <string name="action_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="action_register">Cadastrar</string>
+    <string name="action_forgot_password">Esqueceu a senha?</string>
+
+
+    <string name="hint_name">Nome</string>
+    <string name="hint_confirm_password">Confirmar Senha</string>
+
+
+    <string name="btn_add_item">Adicionar Item</string>
+    <string name="btn_create_list">Criar Lista</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Excluir</string>
+
+  
+    <string name="msg_fill_all_fields">Preencha todos os campos corretamente</string>
+    <string name="msg_enter_list_title">Digite um título para a lista</string>
+
+
+    <string-array name="categorias">
+        <item>Fruta</item>
+        <item>Carne</item>
+        <item>Vegetal</item>
+        <item>Laticínios</item>
+        <item>Grãos</item>
+        <item>Bebidas</item>
+    </string-array>
+
+    <string-array name="categorias_array">
+        <item>Frutas</item>
+        <item>Vegetais</item>
+        <item>Carnes</item>
+        <item>Laticínios</item>
+        <item>Padaria</item>
+        <item>Bebidas</item>
+        <item>Limpeza</item>
+        <item>Higiene Pessoal</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

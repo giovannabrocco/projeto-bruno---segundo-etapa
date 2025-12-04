@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">782931247010</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrqVgYgIA1MSYITttHFEqFjHpEc2CNSeQ</string>
+    <string name="google_app_id" translatable="false">1:782931247010:android:121e6276d7238576043cfb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrqVgYgIA1MSYITttHFEqFjHpEc2CNSeQ</string>
+    <string name="google_storage_bucket" translatable="false">lista-de-compras-533c5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">lista-de-compras-533c5</string>
+</resources>

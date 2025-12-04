@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Fruta</item>
+        <item>Carne</item>
+        <item>Vegetal</item>
+        <item>Laticínios</item>
+        <item>Grãos</item>
+        <item>Bebidas</item>
+    </string-array>
+    <string-array name="categorias_array">
+        <item>Frutas</item>
+        <item>Vegetais</item>
+        <item>Carnes</item>
+        <item>Laticínios</item>
+        <item>Padaria</item>
+        <item>Bebidas</item>
+        <item>Limpeza</item>
+        <item>Higiene Pessoal</item>
+        <item>Outros</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="action_forgot_password">Esqueceu a senha?</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Cadastrar</string>
+    <string name="app_name">ListaCompras</string>
+    <string name="btn_add_item">Adicionar Item</string>
+    <string name="btn_create_list">Criar Lista</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="btn_edit">Editar</string>
+    <string name="gcm_defaultSenderId" translatable="false">782931247010</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrqVgYgIA1MSYITttHFEqFjHpEc2CNSeQ</string>
+    <string name="google_app_id" translatable="false">1:782931247010:android:121e6276d7238576043cfb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrqVgYgIA1MSYITttHFEqFjHpEc2CNSeQ</string>
+    <string name="google_storage_bucket" translatable="false">lista-de-compras-533c5.firebasestorage.app</string>
+    <string name="hint_confirm_password">Confirmar Senha</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_password">Senha</string>
+    <string name="msg_enter_list_title">Digite um título para a lista</string>
+    <string name="msg_fill_all_fields">Preencha todos os campos corretamente</string>
+    <string name="project_id" translatable="false">lista-de-compras-533c5</string>
+    <style name="Theme.ListaDeCompras" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/drawable_ic_search.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_item.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/item.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/drawable_placeholder.png.flat",
+        "source": "com.example.listadecompras.app-main-44:/drawable/placeholder.png"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_activity_cadastro.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_dialog_edit_item.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/dialog_edit_item.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/drawable_ic_add.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_activity_login.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/drawable_ic_logo.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_activity_item.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/activity_item.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_activity_add_item.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/activity_add_item.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listadecompras.app-debug-42:/layout_item_lista.xml.flat",
+        "source": "com.example.listadecompras.app-main-44:/layout/item_lista.xml"
+    }
+]
